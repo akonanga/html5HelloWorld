@@ -14,7 +14,7 @@
 1.  Within your CSS, change the color of all text on the page using body { color: red; }
 1.  Refresh the index.html file in your browser and review how your changes have altered the page.
 
-#This is submitted out of protest
+#Issue Scenario:
 1.  I was enrolled in this course since November 2014.
 1.  I was monitoring the status of my projects (5 & 6) because out of all the items those are the only "not checked" status for me.
 1.  The week of March 2, I noticed that Project Intro Project: HTML5 Hello World was not checked.
