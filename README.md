@@ -15,12 +15,13 @@
 1.  Refresh the index.html file in your browser and review how your changes have altered the page.
 
 #This is submitted out of protest
+1.  I was enrolled in this course since November 2014.
 1.  I was monitoring the status of my projects (5 & 6) because out of all the items those are the only "not checked" status for me.
 1.  The week of March 2, I noticed that Project Intro Project: HTML5 Hello World was not checked.
 1.  So I sent an issue via the "Report an Issue" function and up to now no reply.
 
 ##Hopefully, evaluating this project would not take 2 weeks.
 
-I intend to finish this by March 2015 so that I would not incur further charges on my part.
+I intend to finish this by the end of March 2015 so that I would not incur further charges on my part.
 The payment for this course is coming from my own personal finances.
 Though I can reimbursement this but ONLY when my company approves it.
